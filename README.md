@@ -1,2 +1,3 @@
-# projects
-Data science projects (*monthly updated)
+# Data science projects
+
+Note: monthly updated
